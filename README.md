@@ -6,7 +6,7 @@ Currently an AI researcher at Commonwealth Bank AI Labs.
 
 ## Recent posts
 
-This updates live every day with the newest articles from my blog.
+This updates live every day with the newest articles from my blog.[^1]
 
 <!-- BLOG-POSTS:START -->
 | Title | Date |
@@ -17,3 +17,5 @@ This updates live every day with the newest articles from my blog.
 | [Keyslip](https://abstractnonsense.xyz/microblog/2026-05-22-keyslip/) | May 22, 2026 |
 | [Pseudorandom number generation in JAX](https://abstractnonsense.xyz/microblog/2026-05-17-pseudorandom-number-generation-in-jax/) | May 17, 2026 |
 <!-- BLOG-POSTS:END -->
+
+[^1]: Powered by a [GitHub Actions workflow](https://github.com/stochastical/stochastical/actions/workflows/update-blog-posts.yml) and a small [nushell](https://www.nushell.sh) script that parses my RSS feed.
