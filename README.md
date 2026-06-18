@@ -1,8 +1,6 @@
 # Yossi Frenkel
 
-Incoming MPhil Advanced Computer Science student at the University of Cambridge.
-
-Currently an AI researcher at Commonwealth Bank AI Labs.
+Currently an AI researcher at Commonwealth Bank AI Labs. Excited to go back to study soon!
 
 ## Recent posts
 
