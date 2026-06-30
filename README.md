@@ -2,6 +2,8 @@
 
 Currently an AI researcher at Commonwealth Bank AI Labs. Incoming MPhil Advanced Computer Science student at the University of Cambridge.
 
+Code here is lovingly crafted by myself, it is not AI slop. All mistakes are, as always, my own.
+
 ## Recent posts
 
 This updates live every day with the newest articles from my blog.[^1]
