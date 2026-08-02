@@ -11,11 +11,11 @@ This updates live every day with the newest articles from my blog.[^1]
 <!-- BLOG-POSTS:START -->
 | Title | Date |
 |:---|:---|
+| [TIL: Luck at full speed](https://abstractnonsense.xyz/microblog/2026-08-01-til-luck-at-full-speed/) | Aug 1, 2026 |
 | [Learning Elliptic Curve Cryptography with Curve25519](https://abstractnonsense.xyz/microblog/2026-07-26-learning-elliptic-curve-cryptography/) | Jul 26, 2026 |
 | [From VHS to Vision Models](https://abstractnonsense.xyz/microblog/2026-07-24-from-vhs-to-vision-models/) | Jul 24, 2026 |
 | [Bits to Backprop](https://abstractnonsense.xyz/microblog/2026-07-12-bits-to-backprop/) | Jul 12, 2026 |
 | [[video] Interview with Simon Peyton Jones](https://abstractnonsense.xyz/microblog/2026-06-23-video-interview-with-simon-peyton-jones/) | Jun 23, 2026 |
-| [MPhil in Advanced Computer Science at the University of Cambridge](https://abstractnonsense.xyz/blog/2026-06-20-mphil-advanced-computer-science/) | Jun 20, 2026 |
 <!-- BLOG-POSTS:END -->
 
 [^1]: Powered by a [GitHub Actions workflow](https://github.com/stochastical/stochastical/actions/workflows/update-blog-posts.yml) and a small [nushell](https://www.nushell.sh) script that parses my RSS feed.
