@@ -11,11 +11,11 @@ This updates live every day with the newest articles from my blog.[^1]
 <!-- BLOG-POSTS:START -->
 | Title | Date |
 |:---|:---|
+| [Daily Note: 11 November 2026](https://abstractnonsense.xyz/microblog/2026-11-11-daily-note/) | Nov 11, 2026 |
 | [Daily Note: 10 November 2026](https://abstractnonsense.xyz/microblog/2026-11-10-daily-note/) | Nov 10, 2026 |
 | [Daily Note: 9 November 2026](https://abstractnonsense.xyz/microblog/2026-11-09-daily-note/) | Nov 9, 2026 |
 | [Daily Note: 8 November 2026](https://abstractnonsense.xyz/microblog/2026-11-08-daily-note/) | Nov 8, 2026 |
 | [Daily Note: 7 November 2026](https://abstractnonsense.xyz/microblog/2026-11-07-daily-note/) | Nov 7, 2026 |
-| [Daily Note: 6 November 2026](https://abstractnonsense.xyz/microblog/2026-11-06-daily-note/) | Nov 6, 2026 |
 <!-- BLOG-POSTS:END -->
 
 [^1]: Powered by a [GitHub Actions workflow](https://github.com/stochastical/stochastical/actions/workflows/update-blog-posts.yml) and a small [nushell](https://www.nushell.sh) script that parses my RSS feed.
